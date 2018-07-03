@@ -1,0 +1,28 @@
+
+.preview {
+  display: flex;
+  padding-left: 0;
+  flex-wrap: wrap;
+  justify-content: space-around;
+}
+img {
+  width: 190px;
+}
+
+li {
+  list-style: none;
+}
+
+.image-fullview {
+  width: 700px;
+}
+
+div{
+  text-align: center;
+}
+
+.active {
+  border: 10px solid cyan;
+  border-radius: 100%;
+}
+
